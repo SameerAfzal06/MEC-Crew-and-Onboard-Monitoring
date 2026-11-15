@@ -17,3 +17,17 @@ cd MEC-Crew-and-Onboard-Monitoring
 python3 main.py
 ```
 
+## References
+
+[1] Occupational Safety and Health Administration (OSHA), "1910.146 - Permit-required confined spaces," 2026. https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.146 (accessed Nov. 15, 2026).
+
+[2] Yale Medicine, "Pulse Oximetry," 2026. https://www.yalemedicine.org/conditions/pulse-oximetry (accessed Nov. 15, 2026).
+
+[3] Canadian Nuclear Safety Commission (CNSC), "Radiation doses," 2026. https://www.cnsc-ccsn.gc.ca/eng/nuclear-safety-security/educational-resources/radiation/radiation-doses/ (accessed Nov. 15, 2026).
+
+[4] Cleveland Clinic, "Heart Rate: What's Normal?," 2026. https://my.clevelandclinic.org/health/diagnostics/heart-rate (accessed Nov. 15, 2026).
+
+[5] MedlinePlus, "Body temperature norms," U.S. National Library of Medicine, 2026. https://medlineplus.gov/ency/article/001982.htm (accessed Nov. 15, 2026).
+
+[6] Occupational Safety and Health Administration (OSHA), "Carbon Dioxide - Chemical Data," 2026. https://www.osha.gov/chemicaldata/183 (accessed Nov. 15, 2026).
+
