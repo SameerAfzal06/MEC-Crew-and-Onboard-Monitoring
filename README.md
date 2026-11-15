@@ -1,10 +1,7 @@
 # MEC-Crew-and-Onboard-Monitoring
-For MEC, Github repo for all team members
-
+For MEC, Github repo and for all team members
 
 References
-
-
 atmospheric oxygen levels
 https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.146
 
@@ -16,3 +13,10 @@ https://www.cnsc-ccsn.gc.ca/eng/nuclear-safety-security/educational-resources/ra
 
 heart rate limits
 https://my.clevelandclinic.org/health/diagnostics/heart-rate
+
+temperature 
+https://medlineplus.gov/ency/article/001982.htm
+
+co2 
+https://www.osha.gov/chemicaldata/183
+
