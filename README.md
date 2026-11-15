@@ -12,7 +12,7 @@ Health Copilot is an offline crew and cabin monitoring system built for the McMa
 This project uses only Python 3 standard libraries (`csv`, `time`, `collections`)—no external installations are required.
 
 ```bash
-git clone https://github.com/muhammadabubakarzaka/MEC-Crew-and-Onboard-Monitoring.git
+git clone [https://github.com/SameerAfzal06/MEC-Crew-and-Onboard-Monitoring.git](https://github.com/SameerAfzal06/MEC-Crew-and-Onboard-Monitoring.git)
 cd MEC-Crew-and-Onboard-Monitoring
 python3 main.py
 ```
